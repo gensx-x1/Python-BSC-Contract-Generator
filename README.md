@@ -12,6 +12,7 @@ IT'S NOT SAVE TO STORE PRIVATE KEYS ANYWHERE ON COMPUTER SO I RECOMEND TO CREATE
 Usage:
 1. Start with 
 ```
+pip3 install -r requirements.txt
 python3 main.py
 ```
 2. Follow instrucions on screen
