@@ -18,3 +18,9 @@ python3 main.py
 2. Follow instrucions on screen
 
 [Youtube Demo](https://www.youtube.com/watch?v=0R5P-njlqzk)
+
+
+Future plans:
+```
+make it better
+```
