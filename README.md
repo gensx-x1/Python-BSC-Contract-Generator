@@ -6,7 +6,9 @@ If you have wallet that you want to use with this script create new file called 
 publicAddress,privateKey
 ```
 Otherwise script will make new wallet and you'll need to send at least 0.005 BNB for gas fee.
-# IT'S NOT SAVE TO STORE PRIVATE KEYS ANYWHERE ON COMPUTER SO I RECOMEND TO CREATE NEW CLEAN WALLET
+
+IT'S NOT SAVE TO STORE PRIVATE KEYS ANYWHERE ON COMPUTER SO I RECOMEND TO CREATE NEW CLEAN WALLET
+
 Usage:
 1. Start with 
 ```
