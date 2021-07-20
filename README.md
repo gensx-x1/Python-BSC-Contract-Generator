@@ -24,3 +24,4 @@ Future plans:
 ```
 make it better
 ```
+I don't have any formal programing trening so any input or suggestions are highly welcome
